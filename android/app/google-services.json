@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620004548156",
+    "firebase_url": "https://gdrive-flutter-d4ff7.firebaseio.com",
+    "project_id": "gdrive-flutter-d4ff7",
+    "storage_bucket": "gdrive-flutter-d4ff7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620004548156:android:c6974a9926dd6d427f2d39",
+        "android_client_info": {
+          "package_name": "com.blogspot.akaarkar.gdrive_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620004548156-qn3t4i4njf40qdb26ck3k0vqqjulqf3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blogspot.akaarkar.gdrive_flutter",
+            "certificate_hash": "a6c11e90a63cea0dd2517cf715e40c6c2cdb6c1d"
+          }
+        },
+        {
+          "client_id": "620004548156-g4fba8tae0aam3p06fpp97ug6b60bcdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB1IyiwJStThK9x0qoGWdQfZjolvFQF0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620004548156-g4fba8tae0aam3p06fpp97ug6b60bcdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
